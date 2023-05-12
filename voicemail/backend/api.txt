@@ -1,18 +1,1 @@
-User authentication endpoints:
-    POST /api/login - authenticate a user and create a session token
-    POST /api/logout - destroy the session token and log out the user
-Voicemail management endpoints:
-    GET /api/voicemails - get a list of voicemail messages for the logged-in user
-    GET /api/voicemails/:id - get details of a specific voicemail message
-    POST /api/voicemails - create a new voicemail message
-    PUT /api/voicemails/:id - update the details of a specific voicemail message
-    DELETE /api/voicemails/:id - delete a specific voicemail message
-Text-to-speech and speech-to-text endpoints:
-    POST /api/tts - convert text to speech
-    POST /api/stt - convert speech to text
-User management endpoints:
-    GET /api/users - get a list of all users
-    GET /api/users/:id - get details of a specific user
-    POST /api/users - create a new user
-    PUT /api/users/:id - update the details of a specific user
-    DELETE /api/users/:id - delete a specific user
+Backend : https://github.com/js-designs-321/voicemail-backend 

@@ -1,5 +1,0 @@
-@Sujay you can check the APIs that we are currently planning to build in /voicemail/backend/api.txt
-
-Pages 
-1. Login page
-2. Dashboard (List all the mails) 
